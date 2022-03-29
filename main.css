@@ -9,7 +9,7 @@ body,html{
 }
 
 #container{
-    width: 55%;
+    width: auto;
     max-width: 400px;
     margin: auto;
     display: flex;
@@ -36,6 +36,8 @@ body,html{
     color: white;
     font-size: 25px;
     margin-top: 5px;
+    margin-left: 40px;
+    margin-right: 40px;
 }
 
 #cards{
