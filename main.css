@@ -34,7 +34,7 @@ body,html{
     font-weight: 800;
     font-style: italic;
     color: white;
-    font-size: 25px;
+    
     margin-top: 5px;
     margin-left: 40px;
     margin-right: 40px;
@@ -52,7 +52,7 @@ body,html{
     font-family: 'Volkhov', serif;
     font-weight: 900;
     color: white;
-    font-size: 25px;
+    
     margin-top: 5px;
 }
 
@@ -63,21 +63,11 @@ body,html{
     border: none;
     padding: 10px;
     font-weight: 800;
-    font-size: large;
+    
     cursor: pointer;
     width: 200px;
 }
 
-#ans{
-    background: goldenrod;
-    color: green;
-    font-family: 'Volkhov', serif;
-    border: none;
-    margin-left: 80px;
-    font-weight: 800;
-    font-size: large;
-    cursor: pointer;
-}
 
 #new{
     background: goldenrod;
@@ -86,7 +76,7 @@ body,html{
     border: none;
     padding: 10px;
     font-weight: 800;
-    font-size: large;
+    
     cursor: pointer;
     margin-top: 10px;
     width: 200px;
